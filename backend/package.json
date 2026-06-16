@@ -1,0 +1,27 @@
+{
+  "name": "LabEnvioyProcesamientoDatos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarisolAL16/LabEnvioyProcesamientoDatos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MarisolAL16/LabEnvioyProcesamientoDatos/issues"
+  },
+  "homepage": "https://github.com/MarisolAL16/LabEnvioyProcesamientoDatos#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
